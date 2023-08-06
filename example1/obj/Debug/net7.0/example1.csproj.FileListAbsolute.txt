@@ -1,0 +1,15 @@
+E:\studera C#\example1\bin\Debug\net7.0\example1.exe
+E:\studera C#\example1\bin\Debug\net7.0\example1.deps.json
+E:\studera C#\example1\bin\Debug\net7.0\example1.runtimeconfig.json
+E:\studera C#\example1\bin\Debug\net7.0\example1.dll
+E:\studera C#\example1\bin\Debug\net7.0\example1.pdb
+E:\studera C#\example1\obj\Debug\net7.0\example1.csproj.AssemblyReference.cache
+E:\studera C#\example1\obj\Debug\net7.0\example1.GeneratedMSBuildEditorConfig.editorconfig
+E:\studera C#\example1\obj\Debug\net7.0\example1.AssemblyInfoInputs.cache
+E:\studera C#\example1\obj\Debug\net7.0\example1.AssemblyInfo.cs
+E:\studera C#\example1\obj\Debug\net7.0\example1.csproj.CoreCompileInputs.cache
+E:\studera C#\example1\obj\Debug\net7.0\example1.dll
+E:\studera C#\example1\obj\Debug\net7.0\refint\example1.dll
+E:\studera C#\example1\obj\Debug\net7.0\example1.pdb
+E:\studera C#\example1\obj\Debug\net7.0\example1.genruntimeconfig.cache
+E:\studera C#\example1\obj\Debug\net7.0\ref\example1.dll
