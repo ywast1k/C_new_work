@@ -1,2 +1,2 @@
-﻿Console.WriteLine("2Hello, World!");
-// do
+﻿
+Console.WriteLine("Привет мир ");
