@@ -7,9 +7,11 @@ Console.WriteLine("Введите значение 2:  ");
 int number2 = Convert.ToInt32(Console.ReadLine());
 if(number1>number2)
  {
-     Console.WriteLine(number1);
+     Console.Write("Max= ");
+      Console.Write(number1);
  }
  else
  {
-     Console.WriteLine(number2);
+    Console.Write("Max= ");
+     Console.Write(number2);
  }
